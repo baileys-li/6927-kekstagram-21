@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Arthur Litovko](https://up.htmlacademy.ru/javascript/21/user/6927).
-* Наставник: `Неизвестно`.
+* Наставник: [Полина Прокофьева](https://htmlacademy.ru/profile/id1322073).
 
 ---
 
